@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - t-sekai
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - t-sekai/cse165-chimeg
+  - stonet2000/rfcl
+  - BrightScale/Competitive-Programming-1

@@ -1,3 +1,15 @@
+"tao":
+  - firstname: ["Stone"]
+    url: https://www.stoneztao.com
+
+"shukla":
+  - firstname: ["Arth"]
+    url: https://arth.website
+
+"su" :
+  - firstname: ["Hao"]
+    url: https://cseweb.ucsd.edu/~haosu/
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
