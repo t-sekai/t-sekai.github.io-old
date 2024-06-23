@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergradate at <a href='https://ucsd.edu'>Univeristy of California, San Diego</a>
+subtitle: Undergradate at <a href='https://ucsd.edu'>Univeristy of California, San Diego (UCSD)</a>
 
 profile:
   align: right
