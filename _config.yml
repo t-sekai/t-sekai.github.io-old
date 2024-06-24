@@ -4,7 +4,7 @@
 
 title: Tse-kai Chan # the website title (if blank, full name will be used instead)
 first_name: Tse-kai
-middle_name: 
+middle_name:
 last_name: Chan
 email: #tsekaichan@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -86,7 +86,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: tsekaichan # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID 
+orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons

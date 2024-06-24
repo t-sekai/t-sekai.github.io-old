@@ -8,7 +8,7 @@
     - name: Email
       value: <a href="mailto:tsekaichan@gmail.com">tsekaichan@gmail.com</a>
     - name: Links
-      value: 
+      value:
         - <a href="https://www.linkedin.com/in/tsekaichan/">Linkedin</a> | <a href="https://scholar.google.com/citations?hl=en&user=V5Oq3WEAAAAJ">Google Scholar</a> | <a href="https://github.com/t-sekai">Github</a>
     # - name: Date of Birth
     #   value: 14th March 1879

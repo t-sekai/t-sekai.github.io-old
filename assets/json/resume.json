@@ -16,7 +16,11 @@
       "startDate": "2022-09-19",
       "endDate": "",
       "score": "3.993",
-      "courses": ["CS: Data Structures, Algorithms,  Software Engineering, Database, Operating System, Computer Security","3D/CG: Computer Graphics, 3D User Interaction, 3D Asset Design", "AI: Statistical Methods, Machine Learning, Deep Learning, Computer Vision I/II, ML for Music/Audio, Deep Learning for 3D Data (Graduate), ML for Robotics (Graduate)"]
+      "courses": [
+        "CS: Data Structures, Algorithms,  Software Engineering, Database, Operating System, Computer Security",
+        "3D/CG: Computer Graphics, 3D User Interaction, 3D Asset Design",
+        "AI: Statistical Methods, Machine Learning, Deep Learning, Computer Vision I/II, ML for Music/Audio, Deep Learning for 3D Data (Graduate), ML for Robotics (Graduate)"
+      ]
     }
   ],
   "publications": [
@@ -36,9 +40,11 @@
       "startDate": "2023-04",
       "endDate": "",
       "summary": "Python, PyTorch, Unreal Engine, Kubernetes, Docker",
-      "highlights": ["Co-developed interactive 3D avatars of historical figures in Unreal Engine 5, driven by large language models and text-to-speech/animation pipeline. Implemented a multi-speaker tracking module to drive a virtual avatar’s attention and face/body motion in multiplayer VR or through webcam using Google Mediapipe.", 
-                    "Developed a real-time audio-to-face pipeline that receives audio input from text-to-speech and uses NVIDIA Audio2Face through Rest API to animate facial movements on a 3D avatar.",
-                    "Researching holistic multi-modal context co-speech gesture generation for animation and game engines."]
+      "highlights": [
+        "Co-developed interactive 3D avatars of historical figures in Unreal Engine 5, driven by large language models and text-to-speech/animation pipeline. Implemented a multi-speaker tracking module to drive a virtual avatar’s attention and face/body motion in multiplayer VR or through webcam using Google Mediapipe.",
+        "Developed a real-time audio-to-face pipeline that receives audio input from text-to-speech and uses NVIDIA Audio2Face through Rest API to animate facial movements on a 3D avatar.",
+        "Researching holistic multi-modal context co-speech gesture generation for animation and game engines."
+      ]
     },
     {
       "name": "Advisor: Prof. Hao Su",
@@ -47,9 +53,11 @@
       "startDate": "2023-06",
       "endDate": "",
       "summary": "Python, PyTorch, JAX, Gymnasium, Docker, Kubernetes",
-      "highlights": ["Researched demo-guided deep reinforcement learning methods to effectively solve long-horizon, sparse tasks.", 
-                    "Benchmarked various state-of-the-art demonstration-guided deep RL methods, including RLPD, IQL, etc., on ManiSkill2, D4RL, and Meta-World tasks. Performed experiments on Kubernetes cluster using Docker.",
-                    "Implementing RL baselines for the ManiSkill3 robotics environment."]
+      "highlights": [
+        "Researched demo-guided deep reinforcement learning methods to effectively solve long-horizon, sparse tasks.",
+        "Benchmarked various state-of-the-art demonstration-guided deep RL methods, including RLPD, IQL, etc., on ManiSkill2, D4RL, and Meta-World tasks. Performed experiments on Kubernetes cluster using Docker.",
+        "Implementing RL baselines for the ManiSkill3 robotics environment."
+      ]
     },
     {
       "name": "Nearal",
@@ -58,8 +66,10 @@
       "startDate": "2022-03",
       "endDate": "2022-06",
       "summary": "Kotlin, Android Studio",
-      "highlights": ["Developed various features for Nearal’s Android application, including a dynamic onboarding screen, a floating login interface, and an improved sign-up process, using Kotlin and Android Studio.", 
-                    "Refined multiple app fragments, ensuring optimal functionality for both logged-in and logged-out users, and resolved critical issues such as photo display inconsistencies and profile identification."]
+      "highlights": [
+        "Developed various features for Nearal’s Android application, including a dynamic onboarding screen, a floating login interface, and an improved sign-up process, using Kotlin and Android Studio.",
+        "Refined multiple app fragments, ensuring optimal functionality for both logged-in and logged-out users, and resolved critical issues such as photo display inconsistencies and profile identification."
+      ]
     }
   ],
   "teaching": [
@@ -69,7 +79,9 @@
       "url": "https://cse.ucsd.edu",
       "startDate": "2024-01",
       "endDate": "2024-03",
-      "highlights": ["CSE 152A: Taught Computer Vision and Deep Learning concepts for a class of 150+ students and assisted 20+ students weekly with programming assignments in office hours."]
+      "highlights": [
+        "CSE 152A: Taught Computer Vision and Deep Learning concepts for a class of 150+ students and assisted 20+ students weekly with programming assignments in office hours."
+      ]
     }
   ],
   "awards": [
@@ -92,23 +104,17 @@
     {
       "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Java", "Python", "C", "C++", "C#", "JavaScript", "HTML", "CSS", "SQL", "LaTeX", "Shell"
-      ]
+      "keywords": ["Java", "Python", "C", "C++", "C#", "JavaScript", "HTML", "CSS", "SQL", "LaTeX", "Shell"]
     },
     {
       "name": "Developer Tools",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git", "Docker", "Kubernetes", "ZBrush", "Unity", "Unreal Engine 5", "Blender"
-      ]
+      "keywords": ["Git", "Docker", "Kubernetes", "ZBrush", "Unity", "Unreal Engine 5", "Blender"]
     },
     {
       "name": "Library",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyTorch", "Numpy", "OpenCV", "Gymnasium", "OpenGL", "LMDB"
-      ]
+      "keywords": ["PyTorch", "Numpy", "OpenCV", "Gymnasium", "OpenGL", "LMDB"]
     }
   ],
   "languages": [
@@ -154,15 +160,8 @@
     {
       "name": "Others",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Tetris",
-        "Table Tennis",
-        "Movie",
-        "Anime",
-        "Food"
-      ]
+      "keywords": ["Tetris", "Table Tennis", "Movie", "Anime", "Food"]
     }
   ],
-  "projects": [
-  ]
+  "projects": []
 }
